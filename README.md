@@ -17,7 +17,6 @@ You can call me <b>Mukesh</b>(muku), I am 21 and a third Year Computer Science S
 <a href="https://www.instagram.com/itsmukeshgehlot/"><img src="https://img.icons8.com/color/28/000000/instagram-new--v1.png"/></a>
 <a href="www.linkedin.com/in/mukesh-gehlot-2b2b361b2"><img src="https://img.icons8.com/color/28/000000/linkedin.png"/></a>
 <a href="https://twitter.com/omuksa007"><img src="https://img.icons8.com/color/28/000000/twitter--v1.png"/></a>
-<a href="https://t.me/muku_007k"><img src="https://img.icons8.com/color/28/000000/telegram-app--v1.png"/></a>
 
 ### Languages and Tools ⚒️
 <div>
