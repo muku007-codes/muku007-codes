@@ -2,7 +2,7 @@
 
 ### Know Me 🙋🏻‍♂️
 
-You can call me <b>Mukesh</b>(muku), I am 21 and a third Year Computer Science Student <a href="https://mitsjadan.ac.in/" >@MITS Jadan</a>.<br>I am a
+You can call me <b>Mukesh</b>, I am 21 and a third Year Computer Science Student <a href="https://mitsjadan.ac.in/" >@MITS Jadan</a>.<br>I am a
 <b>Full Stack Web Dev Enthusiast ⚡</b>
 
 - 🔭 I’m currently working on Web Technologies
