@@ -1,31 +1,34 @@
-# Hey there! 👋
+# Hi! My name is Mukesh Gehlot 😄
 
-### Know Me 🙋🏻‍♂️
+🌍  I am a Software Developer at Slideoo.ai.
 
-You can call me <b>Mukesh</b>, I am 21 and working at <a href="https://slideoo.ai/" >Slideoo.ai</a> <br>as a Software Developer.</b>
+### Skills
 
-- 🔭 I’m currently working on Web Technologies
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me about your <b>Problem</b> 
-- 🎯 My 2022 goals : <b>Problem Solving | English | Backend Dev</b> 
-- ⚡ Fun fact: I love to go <b>Gym 💪🏻</b>
+[![My Skills](https://skillicons.dev/icons?i=html,css)]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=js,ts)]() 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux)]() 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)]() 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=tailwind,scss,bootstrap)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=figma)]() 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)]() 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongo)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=git,github)]() 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=netlify)]() 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=vscode,sublime)]() 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Connect with me 👇🏻
 
-<a href="https://www.instagram.com/itsmukeshgehlot/"><img src="https://img.icons8.com/color/28/000000/instagram-new--v1.png"/></a>
-<a href="www.linkedin.com/in/mukesh-gehlot-2b2b361b2"><img src="https://img.icons8.com/color/28/000000/linkedin.png"/></a>
-<a href="https://twitter.com/omuksa007"><img src="https://img.icons8.com/color/28/000000/twitter--v1.png"/></a>
+### Connect with me
 
-### Languages and Tools ⚒️
-<div>
-<img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
-<img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/30/000000/c-programming.png"/>
-</div>  
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mukeshgehlot-portfolio.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mukesh-gehlot-2b2b361b2)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omuksa007)
+
