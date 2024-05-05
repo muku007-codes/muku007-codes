@@ -2,8 +2,7 @@
 
 ### Know Me 🙋🏻‍♂️
 
-You can call me <b>Mukesh</b>, I am 21 and a third Year Computer Science Student <a href="https://mitsjadan.ac.in/" >@MITS Jadan</a>.<br>I am a
-<b>Full Stack Web Dev Enthusiast ⚡</b>
+You can call me <b>Mukesh</b>, I am 21 and working at <a href="https://slideoo.ai/" >Slideoo.ai</a> <br>as a Software Developer.</b>
 
 - 🔭 I’m currently working on Web Technologies
 - 🌱 I’m currently learning everything 🤣
