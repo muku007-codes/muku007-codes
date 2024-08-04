@@ -1,6 +1,6 @@
 # Hi! My name is Mukesh Gehlot 😄
 
-🌍  I am a Software Developer at Slideoo.ai.
+🌍  I am a Software Developer.
 
 ### Skills
 
